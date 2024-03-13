@@ -1,0 +1,6 @@
+db.users.insertOne({
+  username: "Daniel",
+  email: "jsdgarnica@gmail.com",
+  password: "vision123",
+  admin: true
+});
